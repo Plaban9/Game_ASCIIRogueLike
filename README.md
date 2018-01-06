@@ -5,6 +5,8 @@ A C++ Console game based on retro RogueLike games where ASCII characters were us
 
 Goal : To reach the next level
 
++++++ Features +++++
+
   ---Environment---
 	
   '#' - Wall
