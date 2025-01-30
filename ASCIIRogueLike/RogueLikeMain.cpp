@@ -4,13 +4,18 @@
 
 #include "GameManager.h"
 
-using std::cout;
-using std::cin;
-using std::string;
+#include <windows.h>
+#include <filesystem>
+
+// C++ Program to get the current working directory
+#include <iostream>   
+#include <direct.h>   
+using namespace std;
+
 
 int main()
 {
-	GameManager gameManger("C:\\Users\\plaba\\Desktop\\Study\\Game Development\\Projects\\ASCIIRogueLike\\ASCIIRogueLike\\Levels\\Level_1.level");
+	GameManager gameManger("Levels/Level_1.level");
 
 	gameManger.runGame();
 
