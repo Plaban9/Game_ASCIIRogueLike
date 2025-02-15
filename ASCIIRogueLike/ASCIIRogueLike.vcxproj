@@ -77,7 +77,7 @@
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <PostBuildEvent>
-      <Command>xcopy "$(SolutionDir)ASCIIRogueLike\Levels" "$(TargetDir)Levels" /S /Y</Command>
+      <Command>xcopy "$(SolutionDir)ASCIIRogueLike\Levels" "$(TargetDir)Levels\" /E /Y /K</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -103,7 +103,7 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
     <PostBuildEvent>
-      <Command>xcopy "$(SolutionDir)ASCIIRogueLike\Levels" "$(TargetDir)Levels" /S /Y</Command>
+      <Command>xcopy "$(SolutionDir)ASCIIRogueLike\Levels" "$(TargetDir)Levels\" /E /Y /K</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
