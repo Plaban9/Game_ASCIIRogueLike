@@ -1,6 +1,8 @@
 # ASCIIRogueLike
 A C++ Console game based on retro Rogue-like games, where ASCII characters were used as graphics.
 
+itch.io - https://plaban.itch.io/ascii-rogue-like
+
 <img width="1280" height="764" alt="Screenshot_AR_1" src="https://github.com/user-attachments/assets/3fda314b-25c1-4ec1-9fd5-4f2adad3a59a" />
 
 
@@ -52,4 +54,4 @@ Goal: To reach the next level
 + Added AI to enemies so that they can follow the player when Players enters within a sufficient range.
 + Players can create new levels (save it as .level) in a text editor and can play the level they created, Go explore your imagination!!
 
-itch.io - https://plaban.itch.io/ascii-rogue-like
+
