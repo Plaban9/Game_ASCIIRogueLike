@@ -54,6 +54,6 @@ Reach the next level!
 ## 🚀 More Features
 
 - **Enemy AI:** Enemies can follow the player if they enter a certain range.
-- **Custom Levels:** Create new levels in a text editor (save as `Level_x.level` where x is the level number) and play your own creations. Explore your imagination!
+- **Custom Levels:** Create new levels in a text editor (save as `Level_x.level` where `x` is the level number) and play your own creations. Explore your imagination!
 
 ---
