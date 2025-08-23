@@ -1,57 +1,57 @@
-# ASCIIRogueLike
-A C++ Console game based on retro Rogue-like games, where ASCII characters were used as graphics.
+# ASCII Rogue-Like
 
-itch.io - https://plaban.itch.io/ascii-rogue-like
+A C++ console game inspired by retro Rogue-like games, where ASCII characters serve as graphics.
 
-<img width="1280" height="764" alt="Screenshot_AR_1" src="https://github.com/user-attachments/assets/3fda314b-25c1-4ec1-9fd5-4f2adad3a59a" />
+Play on [itch.io](https://plaban.itch.io/ascii-rogue-like)
 
+---
 
-<img width="1280" height="764" alt="Screenshot_AR_2" src="https://github.com/user-attachments/assets/261d74b7-6033-44d5-8e75-4eab97b2b809" />
+<img width="600" alt="Screenshot_AR_1" src="https://github.com/user-attachments/assets/3fda314b-25c1-4ec1-9fd5-4f2adad3a59a" />
+<img width="600" alt="Screenshot_AR_2" src="https://github.com/user-attachments/assets/261d74b7-6033-44d5-8e75-4eab97b2b809" />
 
+---
 
+## 🎮 Guide
 
-+++++ Guide +++++
+**Goal:**  
+Reach the next level!
 
-Goal: To reach the next level
+---
 
-+++++ Features +++++
+## 🌟 Features
 
-  ---Environment---
-	
-  '#' - Wall
-	
-  '.' - Air
-	
-  '~' - Water
-	
-  
-  ---Characters---
-	
-  '@' - Player
-	
-  'S' - Skeleton
-	
-  'G' - Gargoyle
-	
-  'M' - Monster
-	
-  'D' - Dragon
-  
-	
-  ---Miscellaneous---
-	
-  '<' - Previous Level
-	
-  '>' - Next Level
-	
-  '?' - Random Drop (Health, Defence, Attack or XP)
-	
-  '$' - XP drop (to be added) 
-	
+### Environment
 
-+++++ Features +++++
+| Symbol | Meaning  |
+|--------|----------|
+|   `#`  | Wall     |
+|   `.`  | Air      |
+|   `~`  | Water    |
 
-+ Added AI to enemies so that they can follow the player when Players enters within a sufficient range.
-+ Players can create new levels (save it as .level) in a text editor and can play the level they created, Go explore your imagination!!
+### Characters
 
+| Symbol | Character   |
+|--------|------------|
+|   `@`  | Player      |
+|   `S`  | Skeleton    |
+|   `G`  | Gargoyle    |
+|   `M`  | Monster     |
+|   `D`  | Dragon      |
 
+### Miscellaneous
+
+| Symbol | Description                                 |
+|--------|---------------------------------------------|
+|   `<`  | Previous Level                              |
+|   `>`  | Next Level                                  |
+|   `?`  | Random Drop (Health, Defence, Attack, or XP)|
+|   `$`  | XP Drop (coming soon)                       |
+
+---
+
+## 🚀 More Features
+
+- **Enemy AI:** Enemies can follow the player if they enter a certain range.
+- **Custom Levels:** Create new levels in a text editor (save as `.level`) and play your own creations. Explore your imagination!
+
+---
