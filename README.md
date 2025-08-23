@@ -8,6 +8,8 @@ Play on [itch.io](https://plaban.itch.io/ascii-rogue-like)
 
 <img width="600" alt="Screenshot_AR_1" src="https://github.com/user-attachments/assets/3fda314b-25c1-4ec1-9fd5-4f2adad3a59a" />
 <img width="600" alt="Screenshot_AR_2" src="https://github.com/user-attachments/assets/261d74b7-6033-44d5-8e75-4eab97b2b809" />
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/08d6a5cc-bd0d-451f-b991-37e43e3643f4" />
+
 
 ---
 
